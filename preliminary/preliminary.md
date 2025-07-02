@@ -1,7 +1,25 @@
-Lecture 01. Syntax-Based Reading Comprehension
+编程思维的问题分析能力
+使用受限制语言的表达能力
+基于句法的阅读和写作能力
 
-Lecture 02. Computational Thinking in Routine Activities
+认识到
+尝试表达
+尝试用受限制的语言表达
+基于句法的阅读和写作和分析
 
+Lecture 01. Computational Thinking in Routine Activities
+
+能够认识到
+
+尝试表达
+
+Lecture 02. Limited Description
+
+尝试表达
+
+Lecture 03 计算模型和表达能力
+
+Lecture xx. Syntax-Based Reading Comprehension
 
 ### 阅读和写作形式文本 Read by Syntax
 
@@ -9,6 +27,8 @@ especially native speakers
 词汇量的缺乏使得非母语人士更容易依赖于句子结构
 
 
+preliminary for computer science students
+preliminary for computer engineering students
 
 
 阅读
