@@ -100,7 +100,7 @@ offers a motivated overviw of fundamental programming courses for ... students
 
 ### 2
 
-It depends on your purpose. 你需要学习到什么地步取决于你的学习目标，对于 non-computer, computer engineering, computer science，我们提供不同的 preliminary 课程和后续课程
+It depends on your goals. 你需要学习到什么地步取决于你的学习目标，对于 non-computer, computer engineering, computer science，我们提供不同的 preliminary 课程和后续课程
 
 【学生应该根据个人兴趣和实际情况可以选择更适合自身发展的课程】
 
