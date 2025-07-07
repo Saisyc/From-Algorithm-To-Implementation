@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Bonsoir!
 
 head teaching assistant for fundamental programming courses containing over 1600 students
@@ -44,3 +45,6 @@ programming language
 
 
 One should be able to read what one has not understood.
+=======
+Bonjour!
+>>>>>>> Stashed changes
