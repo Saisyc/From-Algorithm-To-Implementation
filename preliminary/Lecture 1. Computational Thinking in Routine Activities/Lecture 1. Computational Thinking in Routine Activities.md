@@ -1,8 +1,8 @@
 Hi!
 
-Welcome to Preliminary to Fundamental Programming Courses for Computer Science Students.
+Welcome to *Preliminary to Fundamental Programming Courses for Computer Science Students*.
 
-Today, we are going to discuss Computational Thinking in Routine Activities.
+Today, we are going to discuss *Computational Thinking in Routine Activities*.
 
 But before we get started, I would like to share the motivation of this preliminary.
 
